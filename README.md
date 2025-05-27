@@ -2,16 +2,16 @@ O projeto foi pensado com a ideia de solucionar um problema "simples", que até 
 
 
 **BIBLIOTECAS USADAS:** 
-1)sqlAlchemy}Banco de dados
+1)**sqlAlchemy**}Banco de dados
 !!Importações específicas:
-        - create_engin--> cria conexão com o banco de dados
-        - Column--> cria a coluna da tabela no banco de dados
-        - Integer--> usado para armazenar números inteiros
-        - String--> usado para armazenar texto
-         - sessionmaker--> gerencia a conexão com o banco de dados
-        - declarative_base-->- permite criar classes Python que serão mapeadas para tabelas no banco de dados
+        - **create_engine**--> cria conexão com o banco de dados
+        - **Column**--> cria a coluna da tabela no banco de dados
+        - **Integer**--> usado para armazenar números inteiros
+        - **String**--> usado para armazenar texto
+        - **sessionmaker**--> gerencia a conexão com o banco de dados
+        - **declarative_base**-->- permite criar classes Python que serão mapeadas para tabelas no banco de dados
 
-2)datetime--> validação do formato de data exigido 
+2)**datetime**--> validação do formato de data exigido 
 
 
 

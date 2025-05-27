@@ -11,6 +11,12 @@ Estas importações são responsáveis por:
 - : Criar a classe base para os modelos `declarative_base`
 - `select`: Realizar consultas no banco
 
+  ### Importação para Manipulação de Data/Hora
+Esta importação é utilizada para:
+- Validar o formato de datas inseridas no sistema
+- Manipular informações temporais
+
+
 
 
 
@@ -65,6 +71,17 @@ Estas importações são responsáveis por:
 - Validação de preenchimento obrigatório
 - Verificação de formato de data
 
-        
+
+  ### Observações Importantes
+- O sistema utiliza SQLite como banco de dados () `sqlite:///meubanco.db`
+- Não há necessidade de bibliotecas adicionais além das mencionadas
+- São utilizadas apenas bibliotecas padrão do Python e o SQLAlchemy
+
+Para instalar as dependências necessárias, você pode usar o pip:
+``` bash
+pip install sqlalchemy
+```
+A biblioteca `datetime` já vem incluída na instalação padrão do Python.
+      
 
 

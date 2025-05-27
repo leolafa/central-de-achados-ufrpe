@@ -2,7 +2,7 @@ O projeto foi pensado com a ideia de solucionar um problema "simples", que até 
 BIBLIOTECAS USADAS: 
 1)sqlAlchemy}Banco de dados
 !!Importações específicas:
-        - create_engin`
+        - create_engin
         - Column
         - Intege`
         - String

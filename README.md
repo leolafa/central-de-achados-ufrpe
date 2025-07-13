@@ -51,6 +51,7 @@ Esta importação é utilizada para:
     - Registro de localização
     - Data do ocorrido
     - Contato do responsável
+    - Categoria que o objeto se enquadra
 
 #### 3. Interface do Usuário
 - **Menu Principal**:
@@ -61,6 +62,12 @@ Esta importação é utilizada para:
     - Cadastro de novas postagens
     - Listagem de objetos
     - Opção de saída
+  #### 3. Rich
+    - Utilizada para estilizar o terminal
+    -  Transforma a experiencia do usuário em um modo mais lúdico
+ 
+  <img width="913" height="223" alt="image" src="https://github.com/user-attachments/assets/72623925-5c78-4fb4-9c19-e7c1ccd72e5b" />
+
 
 ### Características Técnicas
 - Utiliza SQLAlchemy para ORM
@@ -79,11 +86,13 @@ Esta importação é utilizada para:
   ### Observações Importantes
 - O sistema utiliza SQLite como banco de dados () `sqlite:///meubanco.db`
 - Não há necessidade de bibliotecas adicionais além das mencionadas
-- São utilizadas apenas bibliotecas padrão do Python e o SQLAlchemy
+- São utilizadas bibliotecas padrão do Python e o SQLAlchemy
+- E como complemento para estilização do terminal foi utilizada a biblioteca rich
 
 Para instalar as dependências necessárias, você pode usar o pip:
 ``` bash
 pip install sqlalchemy
+pip install rich
 ```
 A biblioteca `datetime` já vem incluída na instalação padrão do Python.
       

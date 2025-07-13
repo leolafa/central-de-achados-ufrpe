@@ -1,3 +1,7 @@
+<img width="597" height="278" alt="image" src="https://github.com/user-attachments/assets/73e5bb8d-95ed-4347-8ac5-108ca0c03baf" />
+
+
+
 O projeto foi pensado com a ideia de solucionar um problema "simples", que até hoje não foi feito nenhuma medida realmente efetiva. A partir da "central de achados ufrpe", os estudantes e até mesmo funcionários, terão a oportunidade de ter acesso à uma plataforma em que poderão compartilhar objetos que a pessoa perdeu, ou que ela deseja encontrar. Facilitando assim, o alcance e a segurança na devolução do objeto a seu dono.
 
 

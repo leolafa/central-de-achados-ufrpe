@@ -5,10 +5,14 @@
 O projeto foi pensado com a ideia de solucionar um problema "simples", que até hoje não foi feito nenhuma medida realmente efetiva. A partir da "central de achados ufrpe", os estudantes e até mesmo funcionários, terão a oportunidade de ter acesso à uma plataforma em que poderão compartilhar objetos que a pessoa perdeu, ou que ela deseja encontrar. Facilitando assim, o alcance e a segurança na devolução do objeto a seu dono.
 
 O sistema foi modularizado em 4 arquivos:
-### banco_de_dados
-Onde se concentra a criação do banco e todos os requisitos necessarios para criar um usuário e o objeto
-### objeto
-Onde estão todos os metodos necessarios para a criação do objeto e postagem de tal, assim como alteração de status e a pesquisa por palavra chave de um objeto cadastrado no banco de dados
+### banco_de_dados.py
+Onde se concentra a criação do banco e todos os requisitos necessários para criar um usuário e o objeto
+### objeto.py
+Onde estão todos os métodos necessários para a criação do objeto e postagem de tal, assim como alteração de status e a pesquisa por palavra chave de um objeto cadastrado no banco de dados
+### usuario.py
+Se concentra todos os métodos necessários para a criação do usuário, assim como para o login, além da possibilidade de deleta-lo. Altamente importante, pois só é possível ir para as outras paginas como de cadastro de objetos e seu gerenciamento, se tiver um usuário logado
+### main.py
+Foca todo o desenvolvimento da interface do terminal, a partir da biblioteca rich, e utilizando os demais arquivos. ### RODAR ESSE ARQUIVO
 
 
 **BIBLIOTECAS USADAS:** 

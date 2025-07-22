@@ -5,9 +5,9 @@
 O projeto foi pensado com a ideia de solucionar um problema "simples", que até hoje não foi feito nenhuma medida realmente efetiva. A partir da "central de achados ufrpe", os estudantes e até mesmo funcionários, terão a oportunidade de ter acesso à uma plataforma em que poderão compartilhar objetos que a pessoa perdeu, ou que ela deseja encontrar. Facilitando assim, o alcance e a segurança na devolução do objeto a seu dono.
 
 O sistema foi modularizado em 4 arquivos:
-###banco_de_dados
+### banco_de_dados
 Onde se concentra a criação do banco e todos os requisitos necessarios para criar um usuário e o objeto
-###objeto
+### objeto
 Onde estão todos os metodos necessarios para a criação do objeto e postagem de tal, assim como alteração de status e a pesquisa por palavra chave de um objeto cadastrado no banco de dados
 
 

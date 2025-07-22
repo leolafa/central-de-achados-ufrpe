@@ -12,7 +12,10 @@ Onde estão todos os métodos necessários para a criação do objeto e postagem
 ### usuario.py
 Se concentra todos os métodos necessários para a criação do usuário, assim como para o login, além da possibilidade de deleta-lo. Altamente importante, pois só é possível ir para as outras paginas como de cadastro de objetos e seu gerenciamento, se tiver um usuário logado
 ### main.py
-Foca todo o desenvolvimento da interface do terminal, a partir da biblioteca rich, e utilizando os demais arquivos. ### RODAR ESSE ARQUIVO
+Foca todo o desenvolvimento da interface do terminal, a partir da biblioteca rich, e utilizando os demais arquivos. 
+
+RODAR ESSE ARQUIVO!
+
 
 
 **BIBLIOTECAS USADAS:** 

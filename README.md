@@ -113,3 +113,17 @@ A biblioteca `datetime` já vem incluída na instalação padrão do Python.
 
   BIBLIOTECA DE FLUXOGRAMAS:
   https://drive.google.com/drive/folders/1hGhSBHsgDgNXkgziBX9Qe975HWyp7Lo2?usp=sharing
+
+  ## PRINTS DA APLICAÇÂO
+  -menu inicial
+ <img width="975" height="238" alt="Captura de tela 2025-07-23 215514" src="https://github.com/user-attachments/assets/8bcbd04b-3d30-4bd5-bb71-12372f223125" />
+
+
+  -menu de itens
+<img width="966" height="339" alt="Captura de tela 2025-07-23 215537" src="https://github.com/user-attachments/assets/22d5ad12-1021-472b-a997-82c978cc1aba" />
+
+
+
+
+
+
